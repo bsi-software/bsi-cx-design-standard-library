@@ -41,7 +41,7 @@
             </div>
             <div x-init="initLabel" class="d-flex justify-content-between my-2">
                 <label data-bsi-element-part="{{ pollLeftPartId }}">{{ pollLabelLeftText }}</label>
-                <label data-bsi-element-part="{{ pollRightPartId }}">{{ pollLabelRightText }}</label>
+                <label data-bsi-element-part="{{ pollRightPartId }}" class="label-right">{{ pollLabelRightText }}</label>
             </div>
             <div x-init="initRequiredError" class="invalid-feedback">
                 <label data-bsi-element-part="{{ pollErrorRequiredPartId }}" role="alert" aria-live="assertive" aria-atomic="true">{{ pollErrorRequiredText }}</label>
