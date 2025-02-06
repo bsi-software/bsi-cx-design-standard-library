@@ -16,7 +16,7 @@ to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 * Fix error in the label and tooltip visualization
 * Fix telephone number form field validation
 * Columns displayed in grid not flex
-
+* Add the possibility to change accordion element header background color
 
 ## [1.4.8] - 11.10.2024
 * export text element with .editor() function where htmlEditorConfig can be customized
