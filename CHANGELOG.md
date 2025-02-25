@@ -10,8 +10,7 @@ to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 * Add dark mode support for general layout and all elements
 * Remove empty `ul`-tag from form summary validation 
 * Fix the bootstrap date icon visualization
-* Fix poll element dark mode
-* Fix poll element tabnavigation
+* Update dark mode and accessibility for poll element
 
 ## [1.4.9] - 05.02.2025
 * Add new "list/list item" element where it's possible to sort the list with checkbox via drag and drop or keyboard
